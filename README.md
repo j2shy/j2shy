@@ -1,22 +1,28 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Rishav Chanda</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm j2sh</h1>
+<h3 align="center">A roblox script developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda" /></a> </p>
+<p align="left"> <a href="https://twitter.com/d2rkrai" target="blank"><img src="https://img.shields.io/twitter/follow/d2rkrai?logo=twitter&style=for-the-badge" alt="d2rkrai" /></a> </p>
 
-- 🔭 I’m currently working on **Buckoid Android App**
+- 🔭 I’m currently working on [mewhub](https://discord.gg/r4BEmq2VX6)
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **python**
 
-- 💬 Ask me about **Android , MEARN**
+- 👯 I’m looking to collaborate on **future rblx scripts**
 
-- 📫 How to reach me **rishavchanda0@gmail.com**
+- 🤝 I’m looking for help with **html + c++**
 
-- ⚡ Fun fact **I am Funny**
+- 👨‍💻 All of my projects are available at [https://github.com/bigbootylatinas](https://github.com/bigbootylatinas)
+
+- 💬 Ask me about **rblx + lua**
+
+- 📫 How to reach me **bigbootylatinas@aol.com**
+
+- ⚡ Fun fact **I gaslight**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
