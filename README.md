@@ -12,13 +12,7 @@
 
 - 🌱 I’m currently learning **python**
 
-- 👯 I’m looking to collaborate on **future rblx scripts**
-
-- 🤝 I’m looking for help with **html + c++**
-
 - 👨‍💻 All of my projects are available at [https://github.com/bigbootylatinas](https://github.com/bigbootylatinas)
-
-- 💬 Ask me about **rblx + lua**
 
 - 📫 How to reach me **bigbootylatinas@aol.com**
 
