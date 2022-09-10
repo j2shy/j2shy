@@ -1,4 +1,4 @@
-[![MasterHead](https://tenor.com/view/mew-pokemon-sleep-tired-gif-14604238)](https://rishavchanda.io)
+[![MasterHead](https://cdn.discordapp.com/attachments/503587967709741219/1017969477381537834/mew-pokemon.gif)](https://github.com/bigbootylatinas)
 <h1 align="center">Hi 👋, I'm j2sh</h1>
 <h3 align="center">A roblox script developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/503587967709741219/1017964120563269672/ezgif.com-gif-maker_1.gif">
