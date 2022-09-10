@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://cdn.discordapp.com/attachments/503587967709741219/1017964055249567775/007_1.png))
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm j2sh</h1>
 <h3 align="center">mewhub founder + dev</h3>
-(img align="right" alt="Coding" width="400" src="(https://en.wikipedia.org/wiki/GIF#/media/File:Rotating_earth_(large).gif)")
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bigbootylatinas&label=Profile%20views&color=0e75b6&style=flat" alt="bigbootylatinas" /> </p>
 
