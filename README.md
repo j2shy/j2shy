@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://cdn.discordapp.com/attachments/503587967709741219/1017964055249567775/007_1.png)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](![image](https://user-images.githubusercontent.com/108093283/189462906-33a560e7-a561-4eef-ba26-e8d1698bb17c.png))
 <h1 align="center">Hi 👋, I'm j2sh</h1>
 <h3 align="center">mewhub founder + dev</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/503587967709741219/1017964320350543883/beach.gif")
+(img align="right" alt="Coding" width="400" src="![image](https://user-images.githubusercontent.com/108093283/189462926-1cc20499-e6f7-4f65-a97e-6788b3ee19d4.png)")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bigbootylatinas&label=Profile%20views&color=0e75b6&style=flat" alt="bigbootylatinas" /> </p>
 
