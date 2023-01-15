@@ -47,15 +47,13 @@
 
 <p align="left"> <a href="https://twitter.com/d2rkrai" target="blank"><img src="https://img.shields.io/twitter/follow/d2rkrai?logo=twitter&style=for-the-badge" alt="d2rkrai" /></a> </p>
 
-- 🔭 I’m currently working on [mewhub]([https://discord.gg/r4BEmq2VX6](https://discord.gg/KNdSbHEGhW))
+- 🔭 I’m currently working on [mewhub]([https://discord.gg/r4BEmq2VX6](https://discord.gg/r4BEmq2VX6))
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning real-world training stuff [busy]
 
 - 👨‍💻 All of my projects are available at [https://github.com/bigbootylatinas](https://github.com/bigbootylatinas)
 
 - 📫 How to reach me **bigbootylatinas@aol.com**
-
-- ⚡ Fun fact **I gaslight**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
