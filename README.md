@@ -1,4 +1,4 @@
-💫《 𝓣𝓱𝓪𝓷𝓴 𝔂𝓸𝓾 𝓯𝓸𝓻 𝓼𝓾𝓹𝓹𝓸𝓻𝓽𝓲𝓷𝓰 𝓾𝓼! 》💫
+<h3 align="center">💫《 𝓣𝓱𝓪𝓷𝓴 𝔂𝓸𝓾 𝓯𝓸𝓻 𝓼𝓾𝓹𝓹𝓸𝓻𝓽𝓲𝓷𝓰 𝓾𝓼! 》💫</h3>
 
 <h1 align="center">Hi 👋, I'm j2sh</h1>
 <h3 align="center">A roblox script developer</h3>
