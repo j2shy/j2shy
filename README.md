@@ -9,9 +9,6 @@
 
 <p align="left"> <a href="https://twitter.com/d2rkrai" target="blank"><img src="https://img.shields.io/twitter/follow/d2rkrai?logo=twitter&style=for-the-badge" alt="d2rkrai" /></a> </p>
 
-- 🔭 I’m currently working on [mewhub]([https://discord.gg/r4BEmq2VX6](https://discord.gg/r4BEmq2VX6))
-
-- 🌱 I’m currently learning real-world training stuff [busy]
 
 - 👨‍💻 My latest project is available at [THIS LINK](https://github.com/bigbootylatinas/MewHub/blob/main/Last%20MewHub%20update.lua)
 
