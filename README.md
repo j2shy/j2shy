@@ -7,3 +7,4 @@
   <a href="https://github.com/bigbootylatinas"><img src="https://img.shields.io/github/stars/bigbootylatinas?style=for-the-badge"></img></a>
 </p>
 
+![:bigbootylatinas](https://count.getloli.com/get/@:bigbootylatinas)
