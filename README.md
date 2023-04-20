@@ -8,7 +8,7 @@
 </p>
 
 <p align="center"><img src="https://count.getloli.com/get/@:bigbootylatinas?theme=rule34" alt=":bigbootylatinas" /></p>
-<p align="center"><img src="https://azureimpurerecords.hxhdjd1.repl.co/headimage/81777" alt=":bigbootylatinas" /></p>
+<p align="center"><img src="https://test-1.joshn4.repl.co/headimage/81777" alt=":bigbootylatinas" /></p>
 
 
 
