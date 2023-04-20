@@ -11,4 +11,4 @@
 <p align="center"><img src="https://test-1.joshn4.repl.co/headimage/81777" alt=":bigbootylatinas" /></p>
 
 
-[![Discord Presence](https://test-1.joshn4.repl.co/headimage/81777)]([https://discord.com/users/94490510688792576](https://www.roblox.com/users/81777/profile))
+[![Discord Presence](https://test-1.joshn4.repl.co/headimage/81777)]([https://www.roblox.com/users/81777/profile])
