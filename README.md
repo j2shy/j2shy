@@ -9,6 +9,3 @@
 
 <p align="center"><img src="https://count.getloli.com/get/@:bigbootylatinas?theme=rule34" alt=":bigbootylatinas" /></p>
 <p align="center"><img src="https://test-1.joshn4.repl.co/headimage/81777" alt=":bigbootylatinas" /></p>
-
-
-[![Discord Presence](https://test-1.joshn4.repl.co/headimage/81777)]([https://www.roblox.com/users/81777/profile])
