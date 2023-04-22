@@ -7,4 +7,4 @@
   <a href="https://github.com/bigbootylatinas"><img src="https://img.shields.io/github/stars/bigbootylatinas?style=for-the-badge"></img></a>
 </p>
 
-<p align="center"><img src="https://darkkhakipointedplot.hxhdjd1.repl.co/profile/53650704" alt=":bigbootylatinas" /></p>
+<p align="center"><img src="https://darkkhakipointedplot.hxhdjd1.repl.co/profile/81777" alt=":bigbootylatinas" /></p>
