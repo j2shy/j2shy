@@ -7,6 +7,4 @@
   <a href="https://github.com/bigbootylatinas"><img src="https://img.shields.io/github/stars/bigbootylatinas?style=for-the-badge"></img></a>
 </p>
 
-<p align="center"><img src="https://count.getloli.com/get/@:bigbootylatinas?theme=rule34" alt=":bigbootylatinas" /></p>
-
 <p align="center"><img src="https://jointlongcarriers.hxhdjd1.repl.co/" alt=":bigbootylatinas" /></p>
