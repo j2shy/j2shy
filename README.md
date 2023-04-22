@@ -7,4 +7,4 @@
   <a href="https://github.com/bigbootylatinas"><img src="https://img.shields.io/github/stars/bigbootylatinas?style=for-the-badge"></img></a>
 </p>
 
-<p align="center"><a href="https://www.roblox.com/users/81777/profile"><img src="https://j2sh.replit.app/profile/81777" alt=":bigbootylatinas" /></p>
+<p align="center"><a href="https://www.roblox.com/users/81777/profile"><img src="https://fart.joshn4.repl.co/profile/81777" alt=":bigbootylatinas" /></p>
