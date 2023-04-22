@@ -7,18 +7,6 @@
   <a href="https://github.com/bigbootylatinas"><img src="https://img.shields.io/github/stars/bigbootylatinas?style=for-the-badge"></img></a>
 </p>
 
-<div class="row">
-  <div class="column">
-    <img src="https://j2sh.replit.app/profile/81777" alt="Snow" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="https://j2sh.replit.app/profile/4327514471" alt="Forest" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="https://j2sh.replit.app/profile/4348236369" alt="Mountains" style="width:100%">
-  </div>
-</div>
-
 <p align="center">
   <a href="https://www.roblox.com/users/81777/profile"><img src="https://j2sh.replit.app/profile/81777" alt=":bigbootylatinas" />
   <a href="https://www.roblox.com/users/4327514471/profile"><img src="https://j2sh.replit.app/profile/4327514471" alt=":bigbootylatinas" />
