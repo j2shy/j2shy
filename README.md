@@ -19,18 +19,6 @@
   </div>
 </div>
 
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
-
-
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
 <p align="center">
   <a href="https://www.roblox.com/users/81777/profile"><img src="https://j2sh.replit.app/profile/81777" alt=":bigbootylatinas" />
   <a href="https://www.roblox.com/users/4327514471/profile"><img src="https://j2sh.replit.app/profile/4327514471" alt=":bigbootylatinas" />
