@@ -11,8 +11,6 @@
 
 <table>
 
-<th></th>
-<th></th>
 
 <tr>
 <td>
