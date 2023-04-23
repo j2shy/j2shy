@@ -16,7 +16,7 @@
 <table>
 <tr>
 <th></th>
-<th>Markdown</th>
+<th></th>
 </tr>
 <tr>
 <td>
