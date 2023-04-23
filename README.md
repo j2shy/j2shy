@@ -7,11 +7,7 @@
   <a href="https://github.com/bigbootylatinas"><img src="https://img.shields.io/github/stars/bigbootylatinas?style=for-the-badge"></img></a>
 </p>
 
-<p align="center">
-  <a href="https://www.roblox.com/users/81777/profile"><img src="https://j2sh.replit.app/profile/81777" alt=":bigbootylatinas" />
-  <a href="https://www.roblox.com/users/4327514471/profile"><img src="https://j2sh.replit.app/profile/4327514471" alt=":bigbootylatinas" />
-  <a href="https://www.roblox.com/users/4348236369/profile"><img src="https://j2sh.replit.app/profile/4348236369" alt=":bigbootylatinas" />
-</p>
+
 
 <table>
 <tr>
@@ -20,20 +16,19 @@
 </tr>
 <tr>
 <td>
-  
- <a href="https://www.roblox.com/users/81777/profile"><img src="https://j2sh.replit.app/profile/81777" alt=":bigbootylatinas" />
-  
+<a href="https://www.roblox.com/users/81777/profile"><img src="https://j2sh.replit.app/profile/81777" alt=":bigbootylatinas" />
 </td>
 <td>
-
- <a href="https://www.roblox.com/users/4327514471/profile"><img src="https://j2sh.replit.app/profile/4327514471" alt=":bigbootylatinas" />
-
+<a href="https://www.roblox.com/users/4327514471/profile"><img src="https://j2sh.replit.app/profile/4327514471" alt=":bigbootylatinas" />
 </td>
-  
-  <td>
-
- <a href="https://www.roblox.com/users/4348236369/profile"><img src="https://j2sh.replit.app/profile/4348236369" alt=":bigbootylatinas" />
-
+<td>
+<a href="https://www.roblox.com/users/4348236369/profile"><img src="https://j2sh.replit.app/profile/4348236369" alt=":bigbootylatinas" />
 </td>
 </tr>
 </table>
+
+<p align="center">
+  <a href="https://www.roblox.com/users/81777/profile"><img src="https://j2sh.replit.app/profile/81777" alt=":bigbootylatinas" />
+  <a href="https://www.roblox.com/users/4327514471/profile"><img src="https://j2sh.replit.app/profile/4327514471" alt=":bigbootylatinas" />
+  <a href="https://www.roblox.com/users/4348236369/profile"><img src="https://j2sh.replit.app/profile/4348236369" alt=":bigbootylatinas" />
+</p>
