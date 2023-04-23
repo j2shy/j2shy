@@ -13,7 +13,7 @@
   <a href="https://www.roblox.com/users/4348236369/profile"><img src="https://j2sh.replit.app/profile/4348236369" alt=":bigbootylatinas" />
 </p>
 
-    <table>
+<table>
 <tr>
 <th></th>
 <th>Markdown</th>
