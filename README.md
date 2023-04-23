@@ -15,7 +15,7 @@
 
     <table>
 <tr>
-<th>Json 1</th>
+<th></th>
 <th>Markdown</th>
 </tr>
 <tr>
