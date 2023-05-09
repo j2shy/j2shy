@@ -26,7 +26,7 @@
 <a href="https://www.roblox.com/users/4327514471/profile"><img src="https://pbb.bio/profile/4348236369" alt=":bigbootylatinas" />
 </td>
 <td>
-<a href="https://www.roblox.com/users/4348236369/profile"><img src="https://xn--cp2a.co/profile/4287569777" alt=":bigbootylatinas" />
+<a href="https://bio.joshn4.repl.co/profile/81777" alt=":bigbootylatinas" />
 </td>
 </table>
 
