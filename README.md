@@ -10,7 +10,7 @@
 
 <table>
 <td>
-<a href="https://www.roblox.com/users/4327514471/profile"><img src="https://pbb.bio/4348236369" alt=":bigbootylatinas" />
+<img src="https://pbb.bio/4348236369" alt=":bigbootylatinas" />
 </td>
 <td>
 <a href="https://www.roblox.com/users/53650704/profile"><img src="https://pbb.bio/4327514471" alt=":bigbootylatinas" />
