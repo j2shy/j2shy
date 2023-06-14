@@ -1,7 +1,8 @@
 
-[![Discord Presence](https://lanyard-badge.vercel.app/api/277674827215536129?animated=true&theme=light&borderRadius=0&showNothing=false&bg=ffffff&type=vertical&hideDiscrim=false&hideBadges=false&hideStatus=false)](https://discord.gg/mewhub)
+
 
 <p align="center">
+  [![Discord Presence](https://lanyard-badge.vercel.app/api/277674827215536129?animated=true&theme=light&borderRadius=0&showNothing=false&bg=ffffff&type=vertical&hideDiscrim=false&hideBadges=false&hideStatus=false)](https://discord.gg/mewhub)
   <a href="https://github.com/bigbootylatinas"><img src="https://img.shields.io/github/followers/bigbootylatinas?style=for-the-badge"></img></a>
   <a href="https://github.com/bigbootylatinas"><img src="https://img.shields.io/github/stars/bigbootylatinas?style=for-the-badge"></img></a>
 </p>
