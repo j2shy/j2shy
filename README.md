@@ -1,4 +1,3 @@
-<img src='https://lanyard-visualizer.netlify.app/277674827215536129' />
 
 <p align="center">
   <a href="https://github.com/bigbootylatinas"><img src="https://img.shields.io/github/followers/bigbootylatinas?style=for-the-badge"></img></a>
