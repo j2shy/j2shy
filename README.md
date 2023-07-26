@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/277674827215536129)](https://discord.com/users/277674827215536129)
+[![Discord Presence](https://lanyard.cnrad.dev/api/277674827215536129/hideBadges=true/hideProfile=true/hideTimestamp=true/hideStatus=true/idleMessage=:/animated=:false/bg=:#)](https://discord.com/users/277674827215536129)
 
 <p align="center">
   <a href="https://github.com/bigbootylatinas"><img src="https://img.shields.io/github/followers/bigbootylatinas?style=for-the-badge"></img></a>
