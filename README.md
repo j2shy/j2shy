@@ -1,7 +1,6 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/277674827215536129)](https://discord.com/users/277674827215536129)
 
 <p align="center">
-  [![Discord Presence](https://lanyard.cnrad.dev/api/277674827215536129)](https://discord.com/users/277674827215536129)
   <a href="https://github.com/bigbootylatinas"><img src="https://img.shields.io/github/followers/bigbootylatinas?style=for-the-badge"></img></a>
   <a href="https://github.com/bigbootylatinas"><img src="https://img.shields.io/github/stars/bigbootylatinas?style=for-the-badge"></img></a>
 </p>
