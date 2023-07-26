@@ -1,5 +1,4 @@
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/277674827215536129)](https://discord.com/users/277674827215536129)(https://f8.lol/@)
+[![Discord Presence](https://lanyard.cnrad.dev/api/277674827215536129)](https://discord.com/users/277674827215536129)
 
 <p align="center">
 
