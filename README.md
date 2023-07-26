@@ -1,4 +1,4 @@
-  [![Discord Presence](https://lanyard-badge.vercel.app/api/277674827215536129?animated=true&theme=light&borderRadius=0&showNothing=false&bg=ffffff&type=vertical&hideDiscrim=false&hideBadges=false&hideStatus=false)](https://f8.lol/@)
+  [![Discord Presence](https://lanyard-badge.vercel.app/api/277674827215536129)](https://f8.lol/@)
 
 
 <p align="center">
