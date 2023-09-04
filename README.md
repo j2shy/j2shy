@@ -2,10 +2,10 @@
 
 I'm Josh, a programmer
 
-<p align="center">
-  <a href="https://github.com/bigbootylatinas"><img src="https://img.shields.io/github/followers/j2shy?style=for-the-badge"></img></a>
-  <a href="https://github.com/bigbootylatinas"><img src="https://img.shields.io/github/stars/j2shy?style=for-the-badge"></img></a>
-</p>
+I work on PBB scripts on <a href="http://f8.lol@" target="_blank">Discord</a>!
+
+![Follows](https://img.shields.io/github/followers/j2shy?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/j2shy?style=for-the-badge)
 
 <a href="https://instagram.com/yf2" target="_blank">
   <img align="left" width="22px" alt="Josh's instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/instagram.svg" />
