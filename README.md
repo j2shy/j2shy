@@ -4,8 +4,8 @@
 <details>
   <summary><b>📋 About</b></summary>
 
-  I make stuff. \
-  Mostly with lua, html, js, css, py. \
+  I make stuff. 
+  Mostly with lua, html, js, css, py.
 
   [🌐 website](https://f8.lol 'MY WEBSITEEEEEEEEEEEEEEEEE') \
   [📧 email](mailto:bigbootylatinas@aol.com 'MY EMAILLLLLLLLLL')
