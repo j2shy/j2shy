@@ -11,6 +11,6 @@ I'm Josh, a programmer
   <img align="left" width="22px" alt="Josh's instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/instagram.svg" />
 </a>
 <a href="http://f8.lol" target="_blank">
-  <img align="left" width="22px" alt="Josh's website" src="http://f8.lol"/>
+  <img align="left" width="22px" alt="Josh's website" src="http://simpleicon.com/wp-content/uploads/link-2.png"/>
 </a>
 <br />
