@@ -23,4 +23,4 @@
 
 ![Hits](https://hits-app.vercel.app/hits?url=https://github.com/j2shy&label=views&bgRight=ff69b4)
 
-<img align="middle" src="https://pbb.bio/4327514471" /></a>
+<img align="center" src="https://pbb.bio/4327514471"></a>
