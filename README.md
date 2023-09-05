@@ -22,4 +22,5 @@
 
 
 ![Hits](https://hits-app.vercel.app/hits?url=https://github.com/j2shy&label=views&bgRight=ff69b4)
-![API](https://pbb.bio/4327514471)
+<p style="text-align: center;">[Centered text](https://pbb.bio/4327514471)</p>
+
