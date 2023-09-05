@@ -1,5 +1,5 @@
 <a href="https://discord.com/users/277674827215536129"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/277674827215536129?bg=00000000" /></a>
-
+![:name](https://pbb.bio/4327514471)
 <a href="https://f8.lol"><img src="https://cdn.discordapp.com/attachments/1082491639395795034/1145968560317931600/icon.png" height="110" /></a>
 <details>
   <summary><b>📋 About</b></summary>
